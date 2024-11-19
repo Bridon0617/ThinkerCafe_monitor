@@ -28,3 +28,7 @@
 
 ---
 
+###套件安裝
+- pip install ultralytics opencv-python opencv-python-headless mediapipe
+
+
